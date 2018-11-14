@@ -4,5 +4,5 @@ if [ "$http_ssv2" == "200" ]; then
 	echo 你的V2ray正在正常工作!!
 else
 	/koolshare/scripts/v2ray_config.sh restart
-	echo 我们重启了你的V2ray!!
+	echo 国外连接不正常，我们重启了你的V2ray!!
 fi
