@@ -9,4 +9,4 @@ lede的V2ray的国外连接判断重启脚本
 
 然后在LEDE的**系统**--**计划任务**的最后一行添加如下字段
 
-*/5 * * * * /sbin/ssv2_status.sh
+`*/5 * * * * /sbin/ssv2_status.sh`
