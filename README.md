@@ -1,5 +1,6 @@
 # ssv2_status
 lede的V2ray的国外连接判断重启V2ray的脚本，主要适用于动态IP，以及其他情况导致v2ray失效的情况。
+新增了自动更新V2ray核心。妈妈再也不用担心版本低了！
 ## 使用方法
 首先你得是koolshare的lede也就是F大的，如果不是F大的LEDE你可能需要修改脚本。
 
